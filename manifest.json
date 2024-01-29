@@ -1,0 +1,27 @@
+{
+  "name": "CodePad masters",
+  "short_name": "CodePad",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "orange",
+  "theme": "orange",
+  "icons": [
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "size": "512x512"
+    },
+    {
+      "src": "icons/icon-1024.png",
+      "type": "image/png",
+      "size": "1024x1024"
+    },
+    {
+      "purpose": "maskable",
+      "src": "icons/icons-maskable.png",
+      "size": "512x512"
+    }
+  ],
+  "description": "this is CodePad Web Application"
+}
