@@ -10,3 +10,7 @@ the first thing you need the make you regular app a pwa is the manifest file.
 - **scope 4:** Set of urls that will be controlled by PWA.
 - **start_url 5:** The start url
 - **display 6:** display mode of PWA
+
+# 2 - service worker
+
+A Service Worker is JavaScript code that runs separately from the main thread in the browser. it acts sometimes like a web server and other times like a proxy server.
